@@ -1,0 +1,31 @@
+
+body {
+    margin: 0;
+    color: #82a5ca;
+    text-align: center;
+    font-family: 'Orbitron', sans-serif;
+}
+#title{
+  text-shadow: 0px 0px 4px black;
+}
+.hero-section{
+  background-image: url("img/galaxy.gif"); 
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding: 10px 0 40px 0 ;
+  
+}
+.btn{
+  background-color: #ffffff;
+  padding: 6px 12px;
+  border: none;
+  font-family: inherit;
+  color: inherit;
+  font-weight: bold;
+}
+#underline{
+  border-bottom: 4px solid white;
+}
+#main-logo{
+  width: 100px;
+}
